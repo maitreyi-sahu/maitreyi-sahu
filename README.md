@@ -5,7 +5,7 @@
 
 ### 👩🏽‍💻 About Me
 - 🎓 PhD in Health Metrics Sciences, University of Washington (2025)
-- 📍 Postdoctoral Fellow, Program on Regulation, Therapeutics, and Law (PORTAL), Harvard Medical School / Brigham and Women’s Hospital , Boston, MA
+- 📍 Postdoctoral Fellow, Program on Regulation, Therapeutics, and Law (PORTAL), Harvard Medical School / Brigham and Women’s Hospital, Boston, MA
 - 🔬 Research focus: access and affordability of medicines using large-scale health data; HIV and infectious diseases
 
 ---
