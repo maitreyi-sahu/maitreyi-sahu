@@ -18,7 +18,7 @@ I typically use:
 |---|---|
 | Languages + Reporting| R (+ Quarto), Stata, learning Python |
 | Statistical Analysis & Prediction | Multilevel regression, survey data analysis, demographic methods, machine learning |
-| Geospatial Analysis | GIS, geospatial libraries (e.g., `sf`) |
+| Geospatial Analysis | `sf`, Mapbox, qGIS |
 | Data Sources | Pharmaceutical sales, national surveys, commercial claims, Medicare, Medicaid |
 | Computing | `arrow`, Parquet, `data.table`, `parallel`, HPC (Slurm) |
 
