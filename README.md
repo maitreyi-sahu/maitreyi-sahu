@@ -35,10 +35,4 @@ I typically use:
 See more on [ORCID](https://orcid.org/0000-0002-1593-0193).
 
 ---
-
-### 🔗 Links
-- [PORTAL Profile](https://www.portalresearch.org/maitreyi-sahu.html)  
-- [Google Scholar](https://scholar.google.com/citations?user=HD-0CN0AAAAJ&hl=en&inst=7575085548378563675) | [ORCID](https://orcid.org/0000-0002-1593-0193) | [LinkedIn](https://www.linkedin.com/in/msahu/)
-
----
 📌 Note: Much of my earlier GitHub activity was hosted on an internal institute server. This is where I’ll share public projects. Since my research uses proprietary health data under DUAs, some code here will only run with licensed access.
