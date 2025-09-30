@@ -28,9 +28,9 @@ I typically use:
 - *Prescription Drug Utilization and Spending by Race, Ethnicity, Payer, Health Condition, and US State.*
 [JAMA Health Forum (2025).](https://jamanetwork.com/journals/jama-health-forum/fullarticle/2837041)
 
-- *Pharmacy Closures and Anticonvulsant Medication Prescription Fills.* [JAMA (2024).](https://jamanetwork.com/journals/jama/fullarticle/2825803) [See the **pharmacy_closure** repo for my work developing the pharmacy closure dataset].
+- *Pharmacy Closures and Anticonvulsant Medication Prescription Fills.* [JAMA (2024).](https://jamanetwork.com/journals/jama/fullarticle/2825803) [See the **pharmacy_closure** repo].
 
-- *Non-communicable disease (NCD) risk among people living with HIV in KwaZulu-Natal, South Africa: evidence from a randomised trial of community-based differentiated service delivery.* [JIAS (2025).](https://onlinelibrary.wiley.com/doi/full/10.1002/jia2.26513) [See the **do_art_ncd** repo for my work analyzing randomized trial data using generalized estimating equations].
+- *Non-communicable disease (NCD) risk among people living with HIV in KwaZulu-Natal, South Africa: evidence from a randomised trial of community-based differentiated service delivery.* [JIAS (2025).](https://onlinelibrary.wiley.com/doi/full/10.1002/jia2.26513) [See the **do_art_ncd** repo].
 
 See more on [ORCID](https://orcid.org/0000-0002-1593-0193).
 
