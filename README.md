@@ -16,7 +16,7 @@ I typically use:
 
 | Domain | Tools |
 |---|---|
-| Languages | R (+ Quarto), Stata, learning Python |
+| Languages | R, Stata, learning Python |
 | Statistical Analysis | multilevel regression (`lme4`, `plm`, `gee`), survey data analysis (`survey`), natural experiments (`did`, `itsa`) |
 | Geospatial Analysis | `sf`, Mapbox, qGIS |
 | Data Sources | Pharmaceutical sales, national surveys, commercial claims, Medicare, Medicaid |
