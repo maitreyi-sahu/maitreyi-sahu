@@ -25,6 +25,9 @@ I typically use:
 ---
 
 ### 📚 Selected Publications
+- *Access To Community Pharmacies Associated With Reduced Racial And Ethnic Disparities In Use Of Prescription Drugs, 2010–19.*
+[Health Affairs (2026).](https://www.healthaffairs.org/doi/10.1377/hlthaff.2025.01459) [See the **pharmacy_access** repo].
+
 - *Prescription Drug Utilization and Spending by Race, Ethnicity, Payer, Health Condition, and US State.*
 [JAMA Health Forum (2025).](https://jamanetwork.com/journals/jama-health-forum/fullarticle/2837041)
 
