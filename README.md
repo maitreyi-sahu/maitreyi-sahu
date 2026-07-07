@@ -38,4 +38,4 @@ I typically use:
 See more on [ORCID](https://orcid.org/0000-0002-1593-0193).
 
 ---
-📌 Note: Much of my earlier GitHub activity was hosted on an internal institute server. This is where I’ll share public projects. Since my research uses proprietary health data under DUAs, some code here will only run with licensed access.
+📌 Note: Much of my earlier GitHub activity was hosted on an internal institute server. This repository includes public projects.
